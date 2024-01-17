@@ -55,3 +55,5 @@ This query returns a JSON file.
 ## 10. BMI
 This query calculates the BMI index of each pokemon in a dataset and returns a JSON file containing each pokemon's category and their BMI index.
 BMI is calculated with the following formula: weight/height^2^
+
+The XML generating files come with their matching XSM file containing a schema for the produced XML file
