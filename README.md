@@ -36,7 +36,7 @@ This query returns a list of pokemons that have the longest names in the dataset
 This query returns with an HTML document that contains exactly one Pokemon card of your choice. 
 The card is styled with Boothstrap's card class
 Parameters: 
--`given_pokemon`: This parameter needs a name of a Pokemon that the card should be cerated about
+- `given_pokemon`: This parameter needs a name of a Pokemon that the card should be cerated about
 The card contains the following parameters: 
 - Name
 - HP
